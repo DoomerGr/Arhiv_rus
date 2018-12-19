@@ -1,4 +1,4 @@
-# Cripto_Edit
+# Arhiv
 Cripto_Edit - File Encryption Editor. 
   Редактор который позволяет зашифровать при сохранении файл Вашим паролем.
 Открыть конечно потом файл возможно, только при наличии пароля. Также представляет
@@ -16,3 +16,6 @@ RaschetEvolv - Калькулятор прямобочного эвольвен�
 RaschetEvolv - Calculator for straight-bar involute gearing profile.
 Designed to calculate the involute profile and further processing on
 CNC machines. There is a possibility of graphical analysis of the result.
+
+ChatDoomer - Чат с шифрованием посылаемых сообщений и возможностью передачи файлов.
+ChatDoomer - Chat with encryption of sent messages and the ability to transfer files.
