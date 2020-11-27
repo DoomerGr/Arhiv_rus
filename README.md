@@ -27,3 +27,9 @@ CNC machines. There is a possibility of graphical analysis of the result.
 
 ChatDoomer - Чат с шифрованием посылаемых сообщений и возможностью передачи файлов.
 ChatDoomer - Chat with encryption of sent messages and the ability to transfer files.
+
+ConvHPGL программа которая позволяет из файла HPGL получить управляющую программу 
+для станка с ЧПУ (за базовую использовалась система ЧПУ Siemens 840D). Применялась 
+для изготовления печатной платы (вместно травления) методом фрезерования. Для получения
+файла HPGL использовалась программа Sprint-Layout 6.0 (разработка печатных плат).
+
