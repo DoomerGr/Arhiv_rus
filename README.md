@@ -1,4 +1,7 @@
 # Arhiv
+Sinhron.exe
+Синхронизация указанных папок 2х компьютеров через внешний носитель например (USB-Flash). Программа имеет в профиле 10 пар папок (рабочая <> домашняя) включая все вложения. Позволяет синхронизировать эти папки если работа ведется с файлами и на работе и дома. Добавлена возможность синхронизации без транзита файлов на флешку, напрямую, например если синхронизировать с внешним жестким диском. Также возможно создавать снимки папок с дальнейшим их сравнением. Добавлен просмотрщик снимков. Появился режим удаления в корзину и возможность смены скинов программы.
+
 Cnc-edit NppAddChpu.dll
 This plugin was developed for Notepad ++ x32 and is designed for ease of design and
   editing programs for CNC machines.   Also, a feature has been added to it to print a control program listing that allows   make full use of the leaf space, since the length of the string is often not large and   not used rationally.   Delphi 7 was used for development, and a project template from zobo@users.sf.net.
