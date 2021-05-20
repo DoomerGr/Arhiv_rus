@@ -36,9 +36,9 @@ ConvHPGL программа которая позволяет из файла HP
 для изготовления печатной платы (вместно травления) методом фрезерования. Для получения
 файла HPGL использовалась программа Sprint-Layout 6.0 (разработка печатных плат).
 
-FoldCripto - Шифровальщик файлов.
-
 ConvHPGL is a program that allows you to get a control program for a CNC machine from 
 an HPGL file (for the basic one, a Siemens 840D CNC system was used). It was used for 
 the manufacture of printed circuit boards (together with etching) by milling. 
 Sprint-Layout 6.0 (PCB Design) was used to obtain the HPGL file.
+
+FoldCripto - Шифровальщик файлов.
