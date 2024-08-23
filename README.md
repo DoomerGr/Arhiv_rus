@@ -44,3 +44,7 @@ the manufacture of printed circuit boards (together with etching) by milling.
 Sprint-Layout 6.0 (PCB Design) was used to obtain the HPGL file.
 
 FoldCripto - Шифровальщик файлов.
+
+ControlNFilesConsol - Утилита, которая контролирует количество файлов в указанной папке.
+Для примера. Если в папке создаются архивные копии данных и нужно поддерживать определенное
+количество самых свежих копий, то утилита позволяет это сделать.
